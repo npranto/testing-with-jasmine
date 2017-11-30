@@ -1,0 +1,17 @@
+{
+  "name": "testing-inside-browser",
+  "version": "1.0.0",
+  "description": "Running unit tests inside the browser using Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd src/ && live-server"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "browser",
+    "jasmine"
+  ],
+  "author": "Nazmuz Shakib Pranto <npranto@gmail.com> (https://github.com/npranto)",
+  "license": "ISC"
+}
